@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 document.addEventListener("DOMContentLoaded", () => {
   // Initialize Typed.js for the dynamic text
   const typed = new Typed('.smooth-type-fill', {
@@ -18,8 +17,6 @@ document.addEventListener("DOMContentLoaded", () => {
       }
   });
 });
-=======
->>>>>>> 95fbbea4c56dd933bd313177bea074eb679cd8cc
 //scroll sections
  let sections = document.querySelectorAll('section');
  let navLinks =document.querySelectorAll('header nav a');
