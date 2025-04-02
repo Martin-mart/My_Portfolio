@@ -77,7 +77,7 @@ body {
 
 .home {
     height: 100vh;
-    background: url("./assets/me%20pro.png") no-repeat;/*my picture*/
+    background: url("./assets/me pro.png") no-repeat;/*my picture*/
     background-position: 100% center;
     background-size: 30%;
     display: flex;
