@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   // Initialize Typed.js for the dynamic text
   const typed = new Typed('.smooth-type-fill', {
-      strings: ["Frontend and Backend Developer","Web Designer","Database Entry","Simple Windows Application Development"], // Add your desired text here
+      strings: ["Frontend and Backend Developer","Web Designer","Database Entry","Windows Application Development"], // Add your desired text here
       typeSpeed: 50,
       backSpeed: 50,
       loop: true,
